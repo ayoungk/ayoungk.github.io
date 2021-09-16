@@ -11,4 +11,4 @@ I am currently working as an associate professor in the department [mechanical e
 > See my schedule [online](schedule).
 
 ## Joining our group
-RPM Robotics lab wants strongly self-motivated students. If you're interested, please read the page linked.
+RPM Robotics lab wants strongly self-motivated students. If you're interested, please read the [page](contact) linked.
