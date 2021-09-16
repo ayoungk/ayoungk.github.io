@@ -8,4 +8,4 @@ See my full [CV](https://github.com/ayoungk/cv-akim/blob/master/cv.pdf) from my 
 
 ## Schedule
 
-See my schedule [online](./schedule.html).
+See my schedule [online](schedule).
