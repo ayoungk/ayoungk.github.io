@@ -14,3 +14,10 @@ Sending material/information below would be needed.
 * Github repo (if you have)
 * Publications in pdf (if you have)
 * Demo video of the project you participated in (if you have)
+
+Please **highlight** them in the contact email if you have
+
+* flagship conference papers (e.g., ICRA, IROS)
+* journal papers (e.g., RA-L, T-MECH, T-RO, IJRR)
+
+Check the top ranking publication [list](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics) in robotics.
