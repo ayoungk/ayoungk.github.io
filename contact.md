@@ -19,5 +19,4 @@ Please **highlight** them in the contact email if you have
 
 * flagship conference papers (e.g., ICRA, IROS)
 * journal papers (e.g., RA-L, T-MECH, T-RO, IJRR)
-
-Check the top ranking publication [list](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics) in robotics.
+* Any publication in the top ranking publication [list](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics) in robotics.
