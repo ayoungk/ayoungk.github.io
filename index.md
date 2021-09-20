@@ -15,4 +15,6 @@ To make an appointment or arrange a meeting with me, please use the online sched
 > See my schedule [online](schedule).
 
 ## Joining our group
-RPM Robotics lab wants strongly self-motivated students. If you're interested, please read the [page](contact) linked.
+RPM Robotics lab wants strongly self-motivated students. 
+
+> If you're interested, please read the [page](contact) linked.
