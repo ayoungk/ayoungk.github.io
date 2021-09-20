@@ -1,12 +1,13 @@
 ## Joining RPM Robotics Lab
 
-Email me to my snu email with the word `[JOIN-RPM]` in your email subject. We are searching for strongly self-motivated students who are interested in SLAM.
+### Candidate (1st round)
+Email me to my snu email with the word `[JOIN-RPM]` in your email subject. We are searching for strongly self-motivated students who are interested in SLAMf for the following programs:
 
 1. Undergraduate interns
 2. Master program
 3. PhD program
 
-Sending material/information below would be needed.
+To be considered as a candidate, sending material/information below would be needed.
 
 * Transcript
 * CV (resume)
@@ -20,3 +21,6 @@ Please **highlight** them in the contact email if you have
 * flagship conference papers (e.g., ICRA, IROS)
 * journal papers (e.g., RA-L, T-MECH, T-RO, IJRR)
 * Any publications in the [top-ranking publication list in robotics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_robotics).
+
+### Interview (1st round)
+We arrange an interview (with me and/or with my lab members) with selected candidates.
