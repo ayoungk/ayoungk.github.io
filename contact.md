@@ -12,6 +12,7 @@ To be considered as a candidate, sending material/information below would be nee
 * Transcript
 * CV (resume)
 * A short statement of purpose describing how you became interested in this topic
+* Intern experience
 * Representative Github repo (if you have)
 * Publications in pdf (if you have)
 * Demo videos of the projects you participated in (if you have)
