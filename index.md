@@ -9,6 +9,8 @@ I am currently working as an associate professor in the department [mechanical e
 
 > See my full [CV](https://github.com/ayoungk/cv-akim/blob/master/cv.pdf) from my [Github](https://github.com/ayoungk).
 
+Best way to reach me is an email `ayoungk dot snu dot ac dot kr`
+
 ## Schedule
 To make an appointment or arrange a meeting with me, please use the online schedule below. The schedules are mostly updated in real-time.
 
