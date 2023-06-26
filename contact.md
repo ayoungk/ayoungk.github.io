@@ -6,7 +6,11 @@
 ### 관련수업
 SLAM 관련한 커리큘럼은 다음 [링크](https://galvanized-feet-172.notion.site/SLAM-61fcd4ecf3604fbc9be8d62021fc4d33)를 참고하세요. 인턴 및 대학원생 선발시 해당 수업 내역을 중요하게 고려합니다.
 
-### 1) Candidate
+### 1) Graduate Program
+You can join our group in two different graduate programs:
+* [Department of Mechanical Engineering](https://me.snu.ac.kr/)
+* Interdisciplinary Program in Artificial Intelligent](https://gsai.snu.ac.kr/)
+  
 Email me to my snu email with the word `[JOIN-RPM]` in your email subject. We are searching for strongly self-motivated students who are interested in SLAM for the following programs:
 
 1. Undergraduate interns
