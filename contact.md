@@ -9,7 +9,7 @@ SLAM 관련한 커리큘럼은 다음 [링크](https://galvanized-feet-172.notio
 ### 1) Graduate Program
 You can join our group in two different graduate programs:
 * [Department of Mechanical Engineering](https://me.snu.ac.kr/)
-* Interdisciplinary Program in Artificial Intelligent](https://gsai.snu.ac.kr/)
+* [Interdisciplinary Program in Artificial Intelligent](https://gsai.snu.ac.kr/)
   
 Email me to my snu email with the word `[JOIN-RPM]` in your email subject. We are searching for strongly self-motivated students who are interested in SLAM for the following programs:
 
