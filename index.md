@@ -7,7 +7,7 @@
 <strong>Physical AI</strong>
 </p>
 
-[**CV**](cv.pdf) |
+[**CV**]([cv.pdf](https://github.com/ayoungk/cv-akim/blob/master/cv.pdf)) |
 [**Google Scholar**](https://scholar.google.com/citations?user=7yveufgAAAAJ&hl=en) |
 [**GitHub**](https://github.com/ayoungk) |
 [**RPM Lab**](https://rpm.snu.ac.kr)
