@@ -61,8 +61,6 @@ Best way to reach me is an email `ayoungk at snu dot ac dot kr`.
 
 ## Selected Research Outputs
 
-## Selected Research Outputs
-
 - [**SLAM Handbook**](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) (Cambridge University Press, forthcoming): Co-Editor
 - [**GaRLILEO**](https://github.com/ChiyunNoh/GaRLILEO/) (IJRR 2026): Gravity-aligned radar-leg-inertial odometry
 - [**TherA**](https://github.com/donkeymouse/TherA) (CVPR 2026): Thermal-aware visual-language prompting for controllable RGB-to-thermal infrared translation
