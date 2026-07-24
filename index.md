@@ -1,4 +1,4 @@
-### Professor, Department of Mechanical Engineering, Seoul National University
+## Professor, Mechanical Engineering, Seoul National University
 
 <p style="text-align: left; margin-top: 0; line-height: 1.6;">
 <strong>Robotic Perception</strong> ·
