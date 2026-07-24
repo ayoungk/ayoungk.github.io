@@ -1,6 +1,11 @@
 ### Professor, Department of Mechanical Engineering, Seoul National University
 
-Robotic Perception | Spatial AI | SLAM | Multi-modal Perception | Physical AI
+<p style="text-align: left; margin-top: 0; line-height: 1.6;">
+<strong>Robotic Perception</strong> ·
+<strong>Spatial AI</strong> ·
+<strong>Multi-modal SLAM</strong> ·
+<strong>Physical AI</strong>
+</p>
 
 [**CV**](cv.pdf) |
 [**Google Scholar**](https://scholar.google.com/citations?user=7yveufgAAAAJ&hl=en) |
